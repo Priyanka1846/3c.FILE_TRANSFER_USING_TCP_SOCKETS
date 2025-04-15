@@ -65,6 +65,8 @@ while True:
 ```
 
 ## OUPUT
+![image](https://github.com/user-attachments/assets/4ce66ab1-3ef6-40bf-925d-4e0010cfdb1a)
+
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
 successfully created and executed.
